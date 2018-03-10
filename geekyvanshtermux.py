@@ -21,7 +21,7 @@ def restart_program():
   print "|__] |___ | | |___ | \_ | | | |__/ | \ | |"
   print "-----------------------------------------------------"
   print "[]xxxxx[]::::::::::::::::::::> 24-07-2017 (7:53)"
-  print " [*] Author: geekyvansh --- [*] Version 1.0"
+  print " [*] Author: DedSecTL --- [*] Version 1.0"
   print "c=={:::::::::::::::> Black Hydra Console"
   print " [*] My FB : https://m.facebook.com/Geekyvansh"
   print "(}xxx{):::::::::> Geeky vansh"
